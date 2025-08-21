@@ -1,0 +1,203 @@
+{
+    "1": {
+        "class_name": "Gate Valve N.O",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    }, 
+    "2": {
+        "class_name": " Ball Valve, N.C",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "3": {
+        "class_name": " Globe Valve N.O.",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "4": {
+        "class_name": "Gate Valve N.O",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "5": {
+        "class_name": "Ball Valve N.O",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "6": {
+        "class_name": "Butterfly Valve",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "7": {
+        "class_name": " Gate Valve Manually Actuated",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "8": {
+        "class_name": "Check Valve",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "9": {
+        "class_name": "Diaphragm Valve",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "10": {
+        "class_name": "Needle Valve",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "11": {
+        "class_name": "Gate Valve P.C.",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "12": {
+        "class_name": "Gate Valve N.C.",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "13": {
+        "class_name": "Globe Valve N.C",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "14": {
+        "class_name": "Gate Valve Pneumatic",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "15": {
+        "class_name": "Rotary Valve N.O.",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "16": {
+        "class_name": "Rotary Valve N.C.",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "17": {
+        "class_name": "Open Spacer",
+        "general_class_name":  "Mechanical Connection", 
+        "general_class_value": 1
+    }, 
+    "18": {
+        "class_name": "Spectacle Blind N.C.",
+        "general_class_name":  "Mechanical Connection", 
+        "general_class_value": 1
+    },
+    "19": {
+        "class_name": "Spectacle Blind N.O.",
+        "general_class_name":  "Mechanical Connection", 
+        "general_class_value": 1
+    },
+    "20": {
+        "class_name": "Reducer",
+        "general_class_name":  "Mechanical Connection", 
+        "general_class_value": 1
+    },
+    "21": {
+        "class_name": "Flange",
+        "general_class_name":  "Mechanical Connection", 
+        "general_class_value": 1
+    },
+    "22": {
+        "class_name": "Heat Exchanger",
+        "general_class_name":  "Equipment", 
+        "general_class_value": 2
+    },
+    "23": {
+        "class_name": "Insulation",
+        "general_class_name":  "Insulation", 
+        "general_class_value": 3
+    },
+    "24": {
+        "class_name": "Flow Arrow",
+        "general_class_name":  "Flow Arrow", 
+        "general_class_value": 4
+    },
+    "25": {
+        "class_name": "Circle Valve",
+        "general_class_name":  "Valve", 
+        "general_class_value": 0
+    } ,
+    "26": {
+        "class_name": "Inline Indicator",
+        "general_class_name":  "Control Symbol", 
+        "general_class_value": 5
+    },
+    "27": {
+        "class_name": "Inline Flow Meter",
+        "general_class_name":  "Control Symbol", 
+        "general_class_value": 5
+    },
+    "28": {
+        "class_name": "Shared Display, Local",
+        "general_class_name":  "Control Symbol", 
+        "general_class_value": 5
+    },
+    "29": {
+        "class_name": "Shared Display, Remote",
+        "general_class_name":  "Control Symbol", 
+        "general_class_value": 5
+    },
+    "30": {
+        "class_name": "Control Panel",
+        "general_class_name":  "Control Symbol", 
+        "general_class_value": 5
+    },
+    "31": {
+        "class_name": "Control Measurement Point",
+        "general_class_name":  "Control Symbol", 
+        "general_class_value": 5
+    },
+    "32": {
+        "class_name": "Gauge",
+        "general_class_name":  "Control Symbol", 
+        "general_class_value": 5
+    },
+    "33": {
+        "class_name": "PLC",
+        "general_class_name":  "Control Symbol", 
+        "general_class_value": 5
+    },
+    "34": {
+        "class_name": "Swinging Disk Check Valve",
+        "general_class_name":  "Valve", 
+        "general_class_value": 1
+    },
+    "35": {
+        "class_name": "Hose Bib",
+        "general_class_name":  "Mechanical Connection", 
+        "general_class_value": 2
+    },
+    "36": {
+        "class_name": "Pressure Vessel",
+        "general_class_name":  "Equipment", 
+        "general_class_value": 3
+    },
+    "37": {
+        "class_name": "Centrifugal Pump",
+        "general_class_name":  "Equipment", 
+        "general_class_value": 3
+    },
+    "38": {
+        "class_name": "Motor",
+        "general_class_name":  "Equipment", 
+        "general_class_value": 3
+    },
+    "39": {
+        "class_name": "Coupling",
+        "general_class_name":  "Equipment", 
+        "general_class_value": 3
+    },
+    "40": {
+        "class_name": "Continuation Arrow",
+        "general_class_name":  "Continuation Arrow", 
+        "general_class_value": 7
+    }
+
+}

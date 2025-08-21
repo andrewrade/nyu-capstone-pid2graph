@@ -1,0 +1,12 @@
+path: C:/Users/Andrew Deur/Documents/NYU/DS-GA 1006 Capstone/
+train: Data/synthetic_1_cropped_general_classes/images/train
+val: Data/synthetic_1_cropped_general_classes/images/val
+nc: 6
+
+names: 
+    0: Valve
+    1: Mechanical Connection
+    2: Equipment
+    3: Insulation
+    4: Flow Arrow
+    5: Control Symbol

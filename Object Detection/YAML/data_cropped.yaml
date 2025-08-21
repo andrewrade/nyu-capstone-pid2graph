@@ -1,0 +1,47 @@
+path: C:/Users/Andrew Deur/Documents/NYU/DS-GA 1006 Capstone/
+train: Data/synthetic_1_cropped/images/train
+val: Data/synthetic_1_cropped/images/val
+nc: 40
+
+names: 
+    0: Gate Valve, N.O
+    1: Ball Valve
+    2: Globe Valve, N.O.
+    3: Gate Valve, N.O.
+    4: Ball Valve'
+    5: Butterfly Valve
+    6: Gate Valve, Manually Actuated
+    7: Check Valve
+    8: Diaphragm Valve
+    9: Needle Valve
+    10: Gate Valve, P.C.
+    11: Gate Valve, N.C.
+    12: Globe Valve, N.C
+    13: Gate Valve, Pneumatic
+    14: Rotary Valve, N.O.
+    15: Rotary Valve, N.C.
+    16: Open Spacer
+    17: Spectacle Blind, N.C.
+    18: Spectacle Blind, N.O.
+    19: Reducer
+    20: Flange
+    21: Heat Exchanger
+    22: Insulation
+    23: Flow Arrow
+    24: Circle Valve
+    25: Inline Indicator
+    26: Inline Flow Meter
+    27: Shared Display, Local
+    28: Shared Display, Remote
+    29: Control Panel
+    30: Non-Inline Flow Meter
+    31: Control Measurement Point
+    32: Gauge
+    33: PLC
+    33: Swinging Disk Check Valve
+    34: Hose Bib
+    35: Pressure Vessel
+    36: Centrifugal Pump
+    37: Motor
+    38: Coupling
+    39: Continuation Arrow
